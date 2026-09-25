@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@import "tailwindcss";
+
+@theme {
+  --color-background: #E6E6FA;
+  --color-sidebar: #5E4B8B;
+  --color-sidebarDark: #4A3B70;
+  --color-accentPink: #FF758F;
+  --color-accentLavender: #8B7FD1;
+  --color-cardText: #2D2A3D;
+  --color-muted: #8A87A0;
+
+  --radius-4xl: 2rem;
+}
+
+body {
+  color: #2d2a3d;
+}
