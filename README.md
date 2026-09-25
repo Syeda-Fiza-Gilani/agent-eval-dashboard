@@ -11,6 +11,10 @@ A full-stack observability dashboard for tracking LLM agent performance, accurac
 
 Teams running LLM-powered agents in production need visibility into how those agents actually perform — not just whether they work, but how fast, how expensive, and how reliably they return well-structured output. This dashboard simulates that observability layer: eval run history, model comparisons, cost tracking, and pass/fail rates, all behind a real login system.
 
+<img width="1639" height="826" alt="image" src="https://github.com/user-attachments/assets/bfdac138-53b4-48aa-a53b-f1f02f8ba232" />
+
+<img width="1637" height="747" alt="image" src="https://github.com/user-attachments/assets/c5a51d71-e3f6-490a-afaf-2ce055f33891" />
+
 <img width="1633" height="800" alt="image" src="https://github.com/user-attachments/assets/d29b67af-cb24-4557-b235-091b677c40af" />
 
 
